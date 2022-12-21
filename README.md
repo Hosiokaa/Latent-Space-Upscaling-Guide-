@@ -4,7 +4,6 @@
 ### **This feature runs by scaling the latent sample of the image, and then running a second pass of img2img which results in insane quality boost!**
 
 ## This guide was made for Automatic1111Webui!
-
 ## Pros & Cons of Latent space upscaling
  # Pros 
  - A tremendous quality boost               
@@ -43,7 +42,7 @@ if everything's done correct it should look like the image above! ⇈**
 
 
 # MISC
-Sweet spot for denoising setting would be around 0.5 to 0.7 for me anything lower than 0.5 may give you blurred image
+Sweet spot for denoising setting would be around 0.5 to 0.7 for me, Anything lower than 0.5 may give you blurred image
 
 
 
