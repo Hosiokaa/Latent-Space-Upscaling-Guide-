@@ -11,7 +11,7 @@
  # Cons
  - Can sometimes make the output image more deformed 
     
- ## This guide was tested using [BakaDiffusion](https://huggingface.co/Hosioka/HosHai)
+ ## This guide was tested using [BakaDiffusion](https://huggingface.co/Hosioka/Baka-Diffusion)
  to exactly replice what i did. use the Fp16 Model from my HuggingFace Repo above!
 
 ![Hosioka!GITHUB](https://s1.fileditch.ch/gmcfyZGPMWRErjxoLFg.png)
