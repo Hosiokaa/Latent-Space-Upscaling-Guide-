@@ -1,4 +1,4 @@
-# Latent Space Upscaling Guide!Currently outdated !!!![Will be updated in a few hours]!!
+# Latent Space Upscaling Guide!Currently outdated !!!![Will Never be updated]!!
 # **This guide will teach you how to use latent Space upscaling! via Automatic1111**
 ![Hosioka!GITHUB](https://s1.fileditch.ch/wwuuQMKxwmkZfobXwdA.png)
 ### **This feature runs by scaling the latent sample of the image, and then running a second pass of img2img which results in insane quality boost!**
